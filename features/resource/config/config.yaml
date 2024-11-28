@@ -1,0 +1,6 @@
+browser:
+  type: "chrome"               # Tipo de navegador (chrome, firefox)
+  headless: false              # Ejecutar en modo headless (true o false)
+  use_healenium: false         # Usar Healenium (true o false)
+  healenium_url: "http://localhost:7878"  # URL de Healenium
+  window_size: "1920,1080"     # Tamaño de la ventana (ancho x alto)
